@@ -41,6 +41,9 @@
 		            <version>3.9.0</version> <!-- 或者更新的版本 -->
 		            <configuration>
 		                <release>11</release> <!-- 根据你的需求设置合适的 Java 版本 -->
+				                    <source>11</source>
+                <target>11</target>
+
 		            </configuration>
 
 		        </plugin>
